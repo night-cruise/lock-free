@@ -1,0 +1,17 @@
+[book]
+title = "lockfree in rust"
+authors = ["Night Cruising"]
+description = ""
+language = "zh"
+multilingual = false
+src = "src"
+
+
+[rust]
+edition = "2021"
+
+[output.html]
+git-repository-url = "https://github.com/night-cruise/lock-free"
+
+[build]
+build-dir = "docs"
